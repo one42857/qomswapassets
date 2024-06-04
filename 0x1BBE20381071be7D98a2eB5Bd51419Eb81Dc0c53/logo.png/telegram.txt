@@ -1,0 +1,5 @@
+Name: Quack
+Symbol: $Quack
+Decimals: 18
+Telegram: https://t.me/quackqrc20
+LP Burned: 0x99f150529ef18281b2cbddabeca576fdfcb6568e3ebca1b4bb81bf94f32dc623
